@@ -131,4 +131,34 @@ section a:active{
     }
 }
 
-/*Fazer para Tablets, tamanho: 1257*/
+@media screen and (min-width: 600px) and (max-width: 1280px){
+    header{
+        display: flex;
+       justify-content: center;
+       align-items: center;
+    }
+
+    img{
+        width: 100%;
+        margin: 0 auto;
+    }
+
+    section{
+       display: flex;
+       flex-direction: column;
+       justify-content: center;
+       align-items: center;
+    }
+
+    section h1{
+        width: 500px;
+        margin-top: 30px;
+        font-size: 35px;
+        text-align: center;
+    }
+
+    section a{
+        font-size: 25px;
+        margin-bottom: 30px;
+    }
+}
