@@ -15,9 +15,7 @@ Este é um projeto desenvolvido puramente para fins de estudo e prática de fund
 ## 📸 Mockup da Página
 Abaixo, a visualização da interface que serviu de base para este treino:
 
-<div align="center">
-  <img src="./Captura de tela 2025-11-25 114425.png" width="800px" alt="Screenshot da Landing Page">
-</div>
+  <img src="https://github.com/Leo724-dev/positive-responsivo/blob/master/img/Captura%20de%20tela%202025-11-25%20114425.png?raw=true" width="800px" alt="Screenshot da Landing Page">
 
 ## 💡 O que eu aprendi/pratiquei:
 1. **Posicionamento**: Como centralizar uma seção verticalmente na tela.
